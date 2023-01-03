@@ -1,0 +1,255 @@
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySqlConnector.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySqlConnector.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.GuncelleSil.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Odeme.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeleriGoruntule.resources
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\MySqlConnector.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\MySqlConnector.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.GuncelleSil.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Odeme.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeleriGoruntule.resources
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\qq\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.GuncelleSil.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Odeme.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeleriGoruntule.resources
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\BonusMt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.GuncelleSil.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Odeme.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeleriGoruntule.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.İletisim.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Vizyon.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Misyon.resources
+C:\Users\Karan\Desktop\Heraklesmt2 Full Client\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.frmMain.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\Guna.UI2.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\ZstdNet.dll
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\MySqlConnector.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AnaSayfa.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.frmMain.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.GuncelleSil.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Login.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Misyon.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Odeme.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeEkle.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.UyeleriGoruntule.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Vizyon.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.İletisim.resources
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Karan\Videos\sonhalgörsel\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
